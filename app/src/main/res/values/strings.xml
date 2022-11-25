@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Warikan Calculator</string>
+    <string name="username_a">A</string>
+    <string name="username_b">B</string>
+    <string name="username_c">C</string>
+    <string name="calculate_button">計算</string>
+    <string name="unit_yen">"¥ "</string>
+    <string name="money_hint">金額を入力</string>
+    <string name="total">"合計: "</string>
 </resources>
